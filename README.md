@@ -12,7 +12,7 @@ Cute Cat Theme: Features an adorable cat image with pink styling
 # Technologies Used :  
 HTML5: Structure and markup  
 CSS3: Styling and layout  
-Vanilla JavaScript: Interactive functionality and DOM manipulation  
+JavaScript: Interactive functionality and DOM manipulation  
 
 # How to Use :  
 Type your task in the input field  
